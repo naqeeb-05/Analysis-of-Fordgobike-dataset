@@ -3,7 +3,7 @@
 
 
 ## Dataset
-The Ford GoBike dataset contains the data of individuals who used the bike service in the greater San Francisco Bay area for the month of February in 2019. The data contains 16 columns with different variables such as trip duration, start station, end station etc. The 'user_type' and 'member_gender' contain qualitative nominal datatype.
+The Ford GoBike dataset contains the data of individuals who used the bike service in the greater San Francisco Bay area for the month of February in 2019. The data contains 16 columns with different variables such as trip duration, start station, end station etc. The 'user_type' and 'member_gender' columns contain qualitative nominal datatype.
 
 ## Summary of Findings
 
