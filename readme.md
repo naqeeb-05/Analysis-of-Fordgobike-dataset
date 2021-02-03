@@ -2,8 +2,9 @@
 ## by Naqeeb Tahasildar
 
 
-## Dataset
-The Ford GoBike dataset contains the data of individuals who used the bike service in the greater San Francisco Bay area for the month of February in 2019. The data contains 16 columns with different variables such as trip duration, start station, end station etc. The 'user_type' and 'member_gender' columns contain qualitative nominal datatype.
+## Project Description
+
+In this project I analyzed the Ford Gobike dataset to understand how indivduals use the service. The dataset contains information about users based in greater San Francisco Bay area for the month of February 2019. The data had few tidness issues which were fixed and then visualizations was performed.
 
 ## Summary of Findings
 
